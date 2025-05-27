@@ -9,6 +9,7 @@ int main()
     {
         for(int col=0;col<n-row;col=col+1){
             cout<< "*";
+           // cout<<col+1;  //for number printing
         }
         cout<< endl;
     }
